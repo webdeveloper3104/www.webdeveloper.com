@@ -1,1 +1,1 @@
-https://webdeveloper3104.github.io/www.webdeveloper.com/
+https://webdeveloper3104.github.io
